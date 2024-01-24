@@ -4,7 +4,7 @@ const oleoScript = Oleo_Script({ subsets: ["latin"], weight: ['400', '700'] });
 
 const NavBar = () => {
   return (
-    <div className='flex justify-between items-center py-5 absolute w-full max-sm:px-[5%] px-[10%] border-b left-0 border-[#C4C4C4] max-md:flex-col max-md:gap-5'>
+    <div style={{ zIndex: "5" }} className='flex justify-between items-center py-5 absolute w-full max-sm:px-[5%] px-[10%] border-b left-0 border-[#C4C4C4] max-md:flex-col max-md:gap-5'>
         <span className={oleoScript.className}>
             <span className="text-4xl">Dee’s Estate</span>
         </span>
