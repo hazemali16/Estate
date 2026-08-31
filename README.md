@@ -13,7 +13,7 @@ https://estate-ha.vercel.app/
 - Next.js
 - React
 - JavaScript
-- CSS / Tailwind CSS
+- Tailwind CSS
 
 ## Highlights
 
