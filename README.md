@@ -1,5 +1,7 @@
 # Estate
 
+![Estate Preview](./assets/preview.png)
+
 A modern real estate website focused on presenting properties through a clean and responsive frontend experience.
 
 The project explores modern property presentation, structured layouts, and responsive browsing across different screen sizes.
